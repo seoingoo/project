@@ -30,6 +30,10 @@ in keti
 
 
 
+# linux gitgub
+ - http://blog.naver.com/favorite__/220576468465
+ - http://syaku.tistory.com/245
+ - http://blog.naver.com/azure0777/220462183548
 
 
 
