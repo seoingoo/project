@@ -15,7 +15,8 @@
 # OS Installation and Set up to run for SDH sensors
  https://github.com/jeonghoonkang/BerePi/wiki/How-to...BerePi
  
-
+# kernel image setting into SD card (Linux Terminal)
+ http://dante2k.tistory.com/523
 
 
 # raspberry pi idea
