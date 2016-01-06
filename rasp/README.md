@@ -14,3 +14,9 @@
 
 # OS Installation and Set up to run for SDH sensors
  https://github.com/jeonghoonkang/BerePi/wiki/How-to...BerePi
+ 
+
+
+
+# raspberry pi idea
+ http://www.instructables.com
